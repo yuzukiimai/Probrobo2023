@@ -19,4 +19,8 @@
 また，プロットした学習曲線から episodeが増えると，ゴールへ行くまでに必要とした step数が減少する様子を確認できた．  
 
 
+## 実行の様子（10 episode）
+
+https://youtu.be/RNl6aDIfT48
+
 
