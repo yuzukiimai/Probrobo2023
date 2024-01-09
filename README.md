@@ -29,7 +29,7 @@ YusukeKiyooka jupyter-notebook リポジトリ　https://github.com/YusukeKiyook
 https://youtu.be/RNl6aDIfT48  
 
 
-## 実行方法 (jupyter notebook)　　
+## 実行方法 (jupyter-notebook)　　
 ```sh
 $ git clone https://github.com/yuzukiimai/Probrobo2023.git
 $ cd Probrobo2023
