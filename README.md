@@ -20,7 +20,6 @@
 
 
 ## 実行の様子（10 episode）
-
 https://youtu.be/RNl6aDIfT48
 
 
