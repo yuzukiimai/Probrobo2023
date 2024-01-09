@@ -36,6 +36,6 @@ $ jupyter-notebook
 * matplotlib
 
 ## テスト環境
-* Ubuntu20.04
+* Ubuntu 20.04
 * jupyter-notebook 6.4.12
 * Python 3.8.10
