@@ -8,6 +8,6 @@
 
 ### URL(Youtube)
 + Q-Learning  
-[![IMAGE ALT TEXT HERE](https://github.com/yuzukiimai/Probrobo2023/assets/91650008/7f05b11e-bd36-4399-9915-ecb97fa97990](https://youtu.be/RNl6aDIfT48)
+[!['altテキスト'](![robo](https://github.com/yuzukiimai/Probrobo2023/assets/91650008/7f05b11e-bd36-4399-9915-ecb97fa97990))](https://youtu.be/RNl6aDIfT48)
 
 
