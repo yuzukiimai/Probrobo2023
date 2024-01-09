@@ -13,5 +13,10 @@
 ![curve](https://github.com/yuzukiimai/Probrobo2023/assets/91650008/248198ec-3b5a-473a-979e-0c986bfe48a5)  
 
 ・各episodeで必要とした step数をリスト化したもの  
-![step](https://github.com/yuzukiimai/Probrobo2023/assets/91650008/f6a12b22-e208-4387-a409-76a7171c11e0)
+![step](https://github.com/yuzukiimai/Probrobo2023/assets/91650008/f6a12b22-e208-4387-a409-76a7171c11e0)  
+
+結果的に，30 episodeで最適な方策を獲得できた．  
+プロットした学習曲線から，episodeが増えるにつれて必要なstep数が減少している様子が確認できた．  
+
+
 
