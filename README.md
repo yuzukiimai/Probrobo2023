@@ -10,4 +10,5 @@
 
 ## 実行結果（100 episode）
 ![curve](https://github.com/yuzukiimai/Probrobo2023/assets/91650008/248198ec-3b5a-473a-979e-0c986bfe48a5)
+![step](https://github.com/yuzukiimai/Probrobo2023/assets/91650008/f6a12b22-e208-4387-a409-76a7171c11e0)
 
