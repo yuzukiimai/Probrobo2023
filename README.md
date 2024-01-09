@@ -1,8 +1,10 @@
 # Probrobotics2023
 
 ## 参考
-書籍「詳解 確率ロボティクス Pythonによる基礎アルゴリズムの実装」，著者：上田隆一 (KS理工学専門書) (日本語) 単行本（ソフトカバー） (2019/10/27)
-YusukeKiyooka jupyter-notebook リポジトリ　https://github.com/YusukeKiyooka/jupyter-notebook
+書籍「詳解 確率ロボティクス Pythonによる基礎アルゴリズムの実装」，著者：上田隆一 (KS理工学専門書) (日本語) 単行本（ソフトカバー） (2019/10/27)　　
+
+YusukeKiyooka jupyter-notebook リポジトリ　https://github.com/YusukeKiyooka/jupyter-notebook　　
+
 
 ## 概要
 単純なグリッドワールドを用いて，Q学習により最適な方策の獲得を目指します．  
@@ -27,7 +29,7 @@ YusukeKiyooka jupyter-notebook リポジトリ　https://github.com/YusukeKiyook
 https://youtu.be/RNl6aDIfT48  
 
 
-## 実行方法 (jupyter notebook)
+## 実行方法 (jupyter notebook)　　
 ```sh
 $ git clone https://github.com/yuzukiimai/Probrobo2023.git
 $ cd Probrobo2023
@@ -35,11 +37,11 @@ $ jupyter-notebook
 # 上記のコマンド実行後, Q_learning.ipynb を選択して実行
 ```
 
-## 必要となるライブラリ 
+## 必要となるライブラリ 　　
 * numpy
 * matplotlib
 
-## テスト環境
+## テスト環境　　
 * Ubuntu 20.04
 * jupyter-notebook 6.4.12
 * Python 3.8.10
