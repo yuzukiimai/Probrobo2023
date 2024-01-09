@@ -3,7 +3,7 @@
 ## 参考
 書籍「詳解 確率ロボティクス Pythonによる基礎アルゴリズムの実装」，著者：上田隆一 (KS理工学専門書) (日本語) 単行本（ソフトカバー） (2019/10/27)　　
 
-YusukeKiyooka jupyter-notebook リポジトリ　https://github.com/YusukeKiyooka/jupyter-notebook　　
+YusukeKiyooka jupyter-notebook リポジトリ　https://github.com/YusukeKiyooka/jupyter-notebook
 
 
 ## 概要
