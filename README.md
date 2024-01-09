@@ -11,5 +11,6 @@
 
 ### URL(Youtube)
 + Q-Learning  
-[![IMAGE ALT TEXT HERE](https://youtu.be/RNl6aDIfT48/10.jpg)](https://youtu.be/RNl6aDIfT48)  
+[![IMAGE ALT TEXT HERE](https://youtu.be/RNl6aDIfT48/10.png)](https://youtu.be/RNl6aDIfT48)
+
 
